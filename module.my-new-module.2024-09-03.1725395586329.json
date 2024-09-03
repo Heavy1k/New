@@ -1,0 +1,25 @@
+{
+  "id": "module.my-new-module.2024-09-03.1725395586329",
+  "title": "Heavy",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "requires": [],
+    "systems": [],
+    "recommends": [],
+    "conflicts": [],
+    "flags": {}
+  },
+  "description": "",
+  "size": 123531,
+  "note": "Share",
+  "snapshotId": null,
+  "originalSize": 194182,
+  "createdAt": 1725395586336,
+  "packageId": "my-new-module",
+  "type": "module",
+  "system": null
+}
